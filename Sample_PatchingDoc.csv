@@ -1,0 +1,2 @@
+ClusterName,Managed/Self-Managed,Patched Status,App Name,POC,Env,Version,Time,Arn,AccountNumber,Region,Patching Date
+ABCD,Self Managed,Not patched,,abc@axisbank.com,Dev,1.25,,,,ap_south_1,
