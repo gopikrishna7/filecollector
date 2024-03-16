@@ -1,3 +1,3 @@
 ClusterName,Managed/Self-Managed,Patched Status,App Name,POC,Env,Version,Time,Arn,AccountNumber,Region,Patching Date,Approved status
-ABCD,Self Managed,Not patched,,gopikrishna.m@kaiburr.com,Dev,1.25,,,,ap_south_1,20/03/2024,false
+ABCD,Self Managed,Not patched,,gopikrishna.m@kaiburr.com,Dev,1.25,,,,ap_south_1,20/03/2024,true
 Test,Managed,Not patched,,gopikrishna.m@kaiburr.com,Prod,1.26,,,,,20/03/2024,
