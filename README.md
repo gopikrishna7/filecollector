@@ -2,4 +2,4 @@
 filecollector
 
 
-#trigger 2 ! ok
+#trigger 2 ! ok ok
